@@ -1,0 +1,37 @@
+[
+    {
+        "duration": "June 2022 - August 2022",
+        "company_name": "Walmart Corporation",
+        "designation": "Software Engineer III Intern",
+        "details": [
+            "Worked under the Supply Chain and Logistics department. The team was focused on Transportation which meant dealing with all the transportation related details of the shipment. Created a project which helped synchronize data between multiple transportation systems using Spring Framework, Maven, Nodejs, Express, React, Azure CosmosDB, Docker & Kubernetes. The project will help Walmart migrate from third party transportation systems to their own in-house Transportation System solution."
+        ]
+    },
+    {
+        "duration": "March 2022 - June 2022",
+        "company_name": "Intel Corporation",
+        "designation": "Software Development Intern",
+        "details": [
+            "I worked mostly as a front-end engineer in the Manufacturing, Supply Chain and Operations Automation Team (MSOA) and managed couple of applications. Used Angular, TypeScript and ReactiveJS (RxJS) to create responsive and reusable components in an application that helped detect anomalies in wafers which is used in fabricating integrated chips"
+        ]
+    },
+    {
+        "duration": "Sept 2021 - March 2022",
+        "company_name": "Portland State University",
+        "designation": "Client Systems Junior Engineer (Graduate Assistant)",
+        "details": [
+            "Managing campus wide infrastructure using SCCM, JAMF for software deployments, licensing and Packaging (PSU manages over 3000 plus campus managed computers). Developed integrations such as Slack Bots, etc. that help with client management infrastructure as well as wrote couple of scripts using PowerShell."
+        ]
+    },
+    {
+        "duration": "July 2018 - January 2021",
+        "company_name": "List India Pvt Ltd",
+        "designation": "Associate Software Engineer",
+        "details": [
+            "Worked on the product used by all the major Italian banks, wherein got the experience to work on various technologies such as Java, Spring MVC, Maven, Oracle Database/MySQL Database, AngularJS. Used JIRA for project management and tracking, Confluence for documentation.",
+            "One of the major tasks included a project based on data migration (Oracle Database) in which we had to share a staging table with a partner company for data due to its huge volume be imported in batches.",
+            "Implemented a Key UI feature in the core product by redesigning the product's error/warningmessage incorporating stack trace messages in them which helped developers solve client issues efficiently.",
+            "Developed REST/SOAP web-services, used Postman for API testing and JUnit for unit/integration testing"
+        ]
+    }
+]

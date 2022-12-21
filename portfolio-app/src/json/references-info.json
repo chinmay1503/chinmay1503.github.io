@@ -1,0 +1,23 @@
+[
+    {
+        "img_path": "images/reference-image-1.jpg",
+        "name": "Caterina Belcastro",
+        "designation": "Functional Analyst",
+        "company_name": "List S.p.A",
+        "details": "I had the privilege of working with Chinmay Tawde for more than two years at LIST. Chinmay is proactive, responsible and technically sound employee. Additionally, he helped me for many brainstorming session in the functional analysis process, showing his exceptional troubleshooting and generosity with collegues. Chinmay is a great asset to any company."
+    },
+    {
+        "img_path": "images/reference-image-2.jpg",
+        "name": "Lucia Barontini",
+        "designation": "GRC Solutions Head",
+        "company_name": "List S.p.A",
+        "details": "I've worked with Chinmay on some projects and I can easily say that Chinmay is one of the best people to have as a partner. His technical skills, smartness and accuracy helped me in both understanding customer's needs and finding the better way to design them within the software. He's extremely outgoing and friendly with his colleagues so it's natural establishing strong human relationships with him. It was a real pleasure working with him!"
+    },
+    {
+        "img_path": "images/reference-image-3.jpg",
+        "name": "Michael Jantzen",
+        "designation": "Systems Administrator",
+        "company_name": "Portland State University",
+        "details": "Chinmay came onboard Client Systems Administration team as a student employee. I've found over the years it's difficult to hire students who have IT experience and attention to detail needed to build objects used in client management. With Chinmay I feel that he not only has the attention to detail, but keen insight to improve many of our existing processes. I could train him to use some of Microsoft's most complex client management tools with ease to manage several thousand clients. I also trained him to use JAMF Pro made by JAMF to manage Mac clients as well. Chinmay's quality of work and excellent technical skills help drive project success at the university."
+    }
+]

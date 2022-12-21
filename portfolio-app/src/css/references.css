@@ -1,0 +1,38 @@
+/* References Style */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: block; }
+
+.carousel .carousel-inner {
+  box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3); }
+
+.carousel .now-ui-icons {
+  font-size: 2em; }
+
+.cc-reference .card {
+  padding: 40px; }
+
+.cc-reference img {
+  height: 120px;
+  width: auto; }
+
+.cc-reference .h5 {
+  margin: 0; }
+
+.cc-reference .carousel-indicators li {
+  background: #a5a3a3; }
+
+.cc-reference .carousel-indicators .active {
+  background-color: #378C3F; }
+
+.cc-reference .carousel-inner {
+  box-shadow: none; }
+
+@media (max-width: 768px) {
+  .cc-reference .cc-reference-header {
+    text-align: center; }
+  .cc-reference .carousel-indicators {
+    bottom: 0px; }
+  .cc-reference ol {
+    margin-bottom: 0; } }

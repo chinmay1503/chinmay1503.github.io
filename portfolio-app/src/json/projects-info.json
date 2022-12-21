@@ -1,0 +1,37 @@
+[
+    {
+        "title": "What's In My Food (Postgres, Express, React, Node.js, D3.js)",
+        "desc": "A visualization app that would fetch nutritional statistics from CalorieNinja API and show data in a dashboard using D3.js library. We can also compare nutritional statistics of two products at a time. The application was based on PERN stack wherein over 400+ food products were supported.",
+        "github_link": "https://github.com/chinmay1503/whats_in_my_food"
+    },
+    {
+        "title": "Recipe Book (MongoDB, Express, React, Node.js)",
+        "desc": "Recipe book was a minimilistic cookbook style application with around 200+ recipes loaded into the MongoDB database, and it fully supported all the CRUD operations, authentication and was containerized and deployed on Google Cloud Platform's Cloud Run environment.",
+        "github_link": "https://github.com/chinmay1503/Recipe-Book"
+    },
+    {
+        "title": "C-Tran Data Processing System (Python, Kafka, Google Cloud Platform)",
+        "desc": "We gathered data from C-Tran and performed transformation, validations and transported it through Apache Kafka then integrated it into our consumer environment wherein we produced route and traffic related visualizations.",
+        "github_link": "https://github.com/chinmay1503/Data-Engg-Project-Assignment-2"
+    },
+    {
+        "title": "Checkers Game with AI (Python, Pygame)",
+        "desc": "A simple single-player checkers game created using Python's pygame module which can be played against a computer AI whose calculations are based on the minimax algorithm",
+        "github_link": "https://github.com/chinmay1503/Checkers-Game"
+    },
+    {
+        "title": "FTP Client (Java, Maven, FileZilla FTP Server)",
+        "desc": "Java based application developed using the Factory Design pattern which supported FTP and SFTP protocol for connecting and interacting with FTP server.",
+        "github_link": "https://github.com/chinmay1503/FTP-Client"
+    },
+    {
+        "title": "Transcript System (JavaFX, SQLite, Google Mail API)",
+        "desc": "An application based on the workflow of Transcript verification and attestation made using JavaFX for frontend and SQLite for the backend. Once the attestation is complete, the user was notified through email.",
+        "github_link": "https://github.com/chinmay1503/Transcript-System"
+    },
+    {
+        "title": "Movie Success Prediction Based on Classical and Social Factors (ASP.NET, Python, SQL)",
+        "desc": "A website for the prediction of success rate of upcoming movies based on classical factors like previous track record of cast and crew, and social factors like public comments on Twitter and YouTube trailers.",
+        "github_link": "https://github.com/chinmay1503/Movie-Success-Prediction"
+    }
+]
