@@ -10,10 +10,9 @@ const About = () => {
                 <div className="col-lg-6 col-md-12">
                     <div className="card-body">
                     <SectionHeading headingCss="h4 mt-0 title" headingText="About"/>
-                    <p>Hello! I am Chinmay Tawde currently a Graduate Student at Portland State University pursuing
+                    <p>Hello! I am Chinmay Tawde, I graduated from Portland State University with a
                         Master's Degree in Computer Science.</p>
-                    <p> My cumulative GPA is 3.9 and I would be graduating in December 2022. I am looking for full time
-                        opportunities starting from January 2023</p>
+                    <p> My cumulative GPA is 3.89 and I am looking for full time opportunities as a Full Stack Software Engineer / Frontend Software Engineer/ Backend Software Engineer / Software Engineer</p>
                     <p> I recently completed two Internships at two major corporations, both dominant in their own domains
                         (Semiconductor and Supply Chain & Logistics). The first at Intel wherein I worked as a Software
                         Development Intern and the other at Walmart wherein I worked as a Software Engineer III Intern. More
