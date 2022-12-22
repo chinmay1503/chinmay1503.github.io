@@ -26,10 +26,6 @@ const About = () => {
                 <div className="col-lg-6 col-md-12">
                     <div className="card-body">
                     <SectionHeading headingCss="h4 mt-0 title" headingText="Basic Information"/>
-                    <div className="row">
-                        <div className="col-sm-4"><strong className="text-uppercase">Age:</strong></div>
-                        <div className="col-sm-8">26</div>
-                    </div>
                     <div className="row mt-3">
                         <div className="col-sm-4"><strong className="text-uppercase">Email:</strong></div>
                         <div className="col-sm-8">chinmaytawde15@gmail.com</div>
@@ -40,7 +36,7 @@ const About = () => {
                     </div>
                     <div className="row mt-3">
                         <div className="col-sm-4"><strong className="text-uppercase">Address:</strong></div>
-                        <div className="col-sm-8">1604 SW Clay St, Apt 502, 97201, Portland, OR, U.S.A</div>
+                        <div className="col-sm-8">Portland, OR, U.S.A</div>
                     </div>
                     <div className="row mt-3">
                         <div className="col-sm-4"><strong className="text-uppercase">Languages:</strong></div>
